@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Variables de entorno
+.env
+*.env
+
+# Modelos ML (archivos grandes)
+*.pkl
+*.joblib
+*.h5
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Node / React
+node_modules/
+build/
+dist/
+.npm
+
+# Base de datos
+*.sqlite3
+*.db
+
+# AWS
+.aws/
+*.pem
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
